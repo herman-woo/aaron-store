@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "product_name": "Aesthetic Aaron",
+    "product_price": 55,
+    "card_type": "Normal",
+    "card_atk": "2500",
+    "card_def": "2100",
+    "description": "The ultimate aesthetic achieveable to mankind. Never before and never again will such perfection exist. BUY YOUR COPY OF PERFECTION TODAY",
+    "img_thumb": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/aaronsapex.jpg",
+    "img_full": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/aaronsapex.jpg"
+  },
+  {
+    "id": 2,
+    "product_name": "Aaron's Arduous Afternoon",
+    "product_price": 75,
+    "card_type": "Normal",
+    "card_atk": "3000",
+    "card_def": "2500",
+    "description": "After a long day of work, Aaron stares into the distance pondering what's next. He had conquered all obstables, destroyed every enemy. There must be more. He vows to find it.",
+    "img_thumb": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/aaronsangles.jpg",
+    "img_full": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/aaronsangles.jpg"
+  },
+  {
+    "id": 3,
+    "product_name": "Aaron goes Airborne",
+    "product_price": 35,
+    "card_type": "Normal",
+            "card_atk": "2400",
+    "card_def": "2000",
+    "description": "Aaron prepares to fly. Aaron prepares to touch the sky. He dreams about it every night and day. Spread his wings and fly away. He believes he could soar. Just see him running through that open door. Indeed he believes he can fly.",
+    "img_thumb": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/airingout.png",
+    "img_full": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/airingout.png"
+  },
+  {
+    "id": 4,
+    "product_name": "Ancient Aaron",
+    "product_price": 10,
+    "card_type": "Normal",
+    "card_atk": "2500",
+    "card_def": "1200",
+    "description": "Aaron Kong 201 B.C.",
+    "img_thumb": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/appreciativeaaron.jpg",
+    "img_full": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/appreciativeaaron.jpg"
+  },
+  {
+    "id": 5,
+    "product_name": "Aaron's Audacity",
+    "product_price": 15,
+    "card_type": "Normal",
+    "card_atk": "1400",
+    "card_def": "1200",
+    "description": "Aaron judges an out of tune singer. He hates incompetence. Do not upset Aaron, BUY YOUR PHOTO OF HIS DISGUST TODAY, AND NEVER GO OUT UNMOTIVATED AGAIN.",
+    "img_thumb": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/awkwardaaron.jpg",
+    "img_full": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/awkwardaaron.jpg"
+  },
+  {
+    "id": 6,
+    "product_name": "Aaron takes Action",
+    "product_price": 150,
+    "card_type": "Effect",
+    "card_atk": "4000",
+    "card_def": "4000",
+    "description": "Requires 3 Tributes to Normal Summon (cannot be Normal Set). This card's Normal Summon cannot be negated. When Normal Summoned, cards and effects cannot be activated. Neither player can target this card with card effects. Once per turn, during the End Phase, if this card was Special Summoned: Send it to the GY. You can Tribute 2 monsters; destroy all monsters your opponent controls. This card cannot declare an attack the turn this effect is activated.",
+    "img_thumb": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/seriousselfie.jpeg",
+    "img_full": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/seriousselfie.jpeg"
+  },
+  {
+    "id": 7,
+    "product_name": "The Silent Selfie",
+    "product_price": 65,
+    "card_type": "Effect",
+    "card_atk": "X000",
+    "card_def": "X000",
+    "description": "The sound of silence is aaron's favorite sound.",
+    "img_thumb": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/silentselfie.jpg",
+    "img_full": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/silentselfie.jpg"
+  },
+  {
+    "id": 8,
+    "product_name": "The Slice of Life",
+    "product_price": 50,
+    "card_type": "Effect",
+    "card_atk": "?",
+    "card_def": "?",
+    "description": "Love, laugh eat. life",
+    "img_thumb": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/AaronsEats.png",
+    "img_full": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/AaronsEats.png"
+  },
+  {
+    "id": 9,
+    "product_name": "The Last Supper",
+    "product_price": 150,
+    "card_type": "Effect",
+    "card_atk": "?",
+    "card_def": "?",
+    "description": "And God shall wipe away all tears from their eyes, and there shall be no more death, neither sorrow, nor crying, neither shall there be any more pain; for the former things are passed away.",
+    "img_thumb": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/aarons.jpg",
+    "img_full": "https://raw.githubusercontent.com/herman-woo/images-hosting/main/src/imgs/aaron/aarons.jpg"
+  }
+]
